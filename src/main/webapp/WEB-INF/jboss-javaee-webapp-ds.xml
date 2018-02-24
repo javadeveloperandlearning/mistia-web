@@ -23,7 +23,7 @@
 		<driver>h2</driver> <security> <user-name>sa</user-name> <password>sa</password> 
 		</security> </datasource> -->
 
-<!-- 
+
 
 	<datasource jta="false" jndi-name="java:jboss/datasources/PostgreSQLDS"
 		pool-name="PostgreSQLDS" enabled="true" use-ccm="false">
@@ -40,7 +40,7 @@
 		</validation>
 
 	</datasource>
- -->
+
 
 </datasources>
  
