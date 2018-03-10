@@ -24,7 +24,7 @@
 		</security> </datasource> -->
 
 
-<!--  
+
 	<datasource jta="false" jndi-name="java:jboss/datasources/PostgreSQLDS"
 		pool-name="PostgreSQLDS" enabled="true" use-ccm="false">
 		<connection-url>jdbc:postgresql://10.131.109.50:5432/mistiadb</connection-url>
@@ -41,6 +41,6 @@
 
 	</datasource>
 
--->
+
 </datasources>
  
